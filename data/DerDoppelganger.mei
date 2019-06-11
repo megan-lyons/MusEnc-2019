@@ -190,7 +190,6 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <dynam xml:id="dynam-0000001279021924" place="below" staff="1" startid="#note-0000002088744334">pp</dynam>
                             <slur xml:id="slur-0000000220649414" startid="#chord-0000001049248473" endid="#chord-0000001614538421" />
                             <slur xml:id="slur-0000001276598080" startid="#chord-0000002000891677" endid="#chord-0000001481082411" />
                         </measure>
@@ -354,12 +353,12 @@
                             </staff>
                             <slur xml:id="slur-0000001827441201" startid="#chord-0000001080108795" endid="#note-0000001587451045" />
                             <slur xml:id="slur-0000000913092811" startid="#chord-0000000384064976" endid="#chord-0000001544571189" />
-                            <!--app>
+                            <app>
                               <rdg source="#Manuscript #BreitkopfHartel"/>
                               <rdg source="#Peters">
                                 <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
                               </rdg>
-                            </app-->
+                            </app>
                         </measure>
                         <measure xml:id="measure-0000000390694854" n="10">
                             <staff xml:id="staff-0000000457214350" n="1">
@@ -1019,7 +1018,6 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <dynam xml:id="dynam-0000001211328115" place="below" staff="1" startid="#note-0000001843081839">p</dynam>
                             <hairpin xml:id="hairpin-0000002045847208" staff="2" startid="#chord-0000000509951645" endid="#note-0000001775694827" form="dim" place="below" />
                         </measure>
                         <measure xml:id="measure-0000000976378367" n="26">
@@ -2216,8 +2214,6 @@
                                 </layer>
                             </staff>
                             <tie xml:id="tie-0000002011784766" startid="#note-0000001829646132" endid="#note-0000002135915582" />
-                            <dynam xml:id="dynam-0000001472656841" place="below" staff="1" startid="#note-0000001520258226">ff</dynam>
-                            <hairpin xml:id="hairpin-0000000421358243" staff="1" startid="#note-0000001520258226" endid="#note-0000000837152094" form="dim" place="below" />
                             <hairpin xml:id="hairpin-0000000873483724" staff="2" startid="#chord-0000001666428454" endid="#note-0000001163733176" form="dim" place="below" />
                             <tie xml:id="tie-0000000304484068" startid="#note-0000001107556123" endid="#note-0000000719615171" />
                             <tie xml:id="tie-0000000629948480" startid="#note-0000002025754040" endid="#note-0000000816787064" />
