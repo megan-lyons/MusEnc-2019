@@ -465,12 +465,12 @@
                             <slur xml:id="slur-0000000296706264" startid="#chord-0000002112558723" endid="#chord-0000000345711234" curvedir="above" />
                             <slur xml:id="slur-0000001964404175" startid="#chord-0000002112558723" endid="#chord-0000000345711234" />
                             <tie xml:id="tie-0000000918298836" startid="#note-0000000543978799" endid="#note-0000001141275499" />
-                            <app>
+                            <!--app>
                               <rdg source="#BreitkopfHartel #Manuscript"/>
                               <rdg source="#Peters">
                                 <slur startid="note-0000001795389481" endid="note-0000001603144472">
                               </rdg>
-                            </app>
+                            </app-->
                         </measure>
                         <measure xml:id="measure-0000001804471415" n="12">
                             <staff xml:id="staff-0000001574322358" n="1">
