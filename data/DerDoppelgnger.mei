@@ -324,7 +324,7 @@
                                         </note>
                                         <note xml:id="note-0000001507050221" dur.ppq="1" dur="32" oct="4" pname="g" stem.dir="up" />
                                         <note xml:id="note-0000001950775584" dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" accid.ges="s" />
-                                    <beam>
+                                    </beam>
                                     <beam xml:id="beam-0000000262005777">
                                         <note xml:id="note-0000000746933226" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up">
                                             <verse xml:id="verse-0000000350692276" n="1">
