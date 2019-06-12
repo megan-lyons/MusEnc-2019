@@ -29,7 +29,7 @@
       </editionStmt>
       <sourceDesc>
         <source xml:id="Manuscript">
-          <identifier>1</identifier>
+          <identifier>http://conquest.imslp.info/files/imglnks/usimg/d/dc/IMSLP111261-PMLP02204-Schubert_Schwanengesang_8_to_14_auto.pdf</identifier>
           <titleStmt>
             <title>[Untitled Schubert Manuscript]</title>
             <respStmt>
@@ -44,7 +44,7 @@
           </notesStmt>
         </source>
         <source xml:id="BreitkopfHartel">
-          <identifier>2</identifier>
+          <identifier>http://conquest.imslp.info/files/imglnks/usimg/b/b5/IMSLP60828-PMLP02204-Schubert_Werke_Breitkopf_Serie_XX_Band_9_F.S.920-933.pdf</identifier>
           <titleStmt>
             <title>XIII. Der Doppelganger</title>
             <respStmt>
@@ -61,7 +61,7 @@
           </pubStmt>
         </source>
         <source xml:id="Peters">
-          <identifier>3</identifier>
+          <identifier>http://conquest.imslp.info/files/imglnks/usimg/4/48/IMSLP00413-Schubert_-_Schwanengesang.pdf</identifier>
           <titleStmt>
             <title>13. Der Doppelganger</title>
             <respStmt>
@@ -75,6 +75,23 @@
               <persName role="edt">Max Friedlaender</name>
             </respStmt>
             <date>1928</date>
+          </pubStmt>
+        </source>
+        <source xml:id="Haslinger">
+          <identifier>http://conquest.imslp.info/files/imglnks/usimg/2/2f/IMSLP05967-Schubert_-_Schwanengesang_Vol2.pdf</identifier>
+          <titleStmt>
+            <title>XIII. Der Doppelganger</title>
+            <respStmt>
+              <persName role="cmp">Franz Schubert</name>
+            </respStmt>
+          </titleStmt>
+          <pubStmt>
+            <title>Schwanengesang</title>
+            <pubPlace>Vienna</pubPlace>
+            <respStmt>
+              <persName role="edt">Tobias Haslinger</name>
+            </respStmt>
+            <date>1829</date>
           </pubStmt>
         </source>
       </sourceDesc>
@@ -419,13 +436,13 @@
               <slur xml:id="slur-0000000913092811" startid="#chord-0000000384064976" endid="#chord-0000001544571189"/>
               <app>
                 <rdg source="#Manuscript #BreitkopfHartel"/>
-                <rdg source="#Peters">
+                <rdg source="#Peters #Haslinger">
                   <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
                 </rdg>
               </app>
               <app>
                 <rdg source="#Manuscript #BreitkopfHartel"/>
-                <rdg source="#Peters">
+                <rdg source="#Peters #Haslinger">
                   <slur startid="note-0000000746933226" endid="note-0000001254214995"/>
                 </rdg>
               </app>
@@ -477,7 +494,7 @@
               <slur xml:id="slur-0000000731994419" startid="#note-0000001587451045" endid="#note-0000001208845991"/>
               <slur xml:id="slur-0000000214675854" startid="#chord-0000001544571189" endid="#note-0000000731441181"/>
               <app>
-                <rdg source="#Manuscript #Peters">
+                <rdg source="#Manuscript #Peters #Haslinger">
                   <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
                 </rdg>
                 <rdg source="#BreitkopfHartel"/>
@@ -529,7 +546,7 @@
               <slur xml:id="slur-0000001964404175" startid="#chord-0000002112558723" endid="#chord-0000000345711234"/>
               <tie xml:id="tie-0000000918298836" startid="#note-0000000543978799" endid="#note-0000001141275499"/>
               <app>
-                <rdg source="#BreitkopfHartel #Manuscript"/>
+                <rdg source="#BreitkopfHartel #Manuscript #Haslinger"/>
                 <rdg source="#Peters">
                   <slur startid="note-0000001795389481" endid="note-0000001603144472"></rdg>
                 </app>
@@ -772,7 +789,7 @@
                 </staff>
                 <app>
                   <rdg source="#Manuscript #BreitkopfHartel"/>
-                  <rdg source="#Peters">
+                  <rdg source="#Peters #Haslinger">
                     <slur startid="note-0000000971602535" endid="note-0000000782535072"/>
                   </rdg>
                 </app>
@@ -1192,6 +1209,12 @@
                   </layer>
                 </staff>
                 <hairpin xml:id="hairpin-0000002117396094" staff="2" startid="#chord-0000001783129399" endid="#note-0000001647820609" form="dim" place="below"/>
+                <app>
+                  <rdg source="#Manuscript #BreitkopfHartel #Haslinger"/>
+                  <rdg source="#Peters">
+                    <slur startid="note-0000001535583919" endid="note-0000001722381461"/>
+                  </rdg>
+                </app>
               </measure>
               <measure xml:id="measure-0000000111737644" n="28">
                 <staff xml:id="staff-0000001795531426" n="1">
