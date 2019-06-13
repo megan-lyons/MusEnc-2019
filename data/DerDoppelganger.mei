@@ -28,7 +28,7 @@
           <corpName role="pbl">GitHub</corpName>
         </respStmt>
       </editionStmt>
-      <!--sourceDesc>
+      <sourceDesc>
         <source xml:id="Manuscript">
           <identifier>http://conquest.imslp.info/files/imglnks/usimg/d/dc/IMSLP111261-PMLP02204-Schubert_Schwanengesang_8_to_14_auto.pdf</identifier>
           <titleStmt>
@@ -95,7 +95,7 @@
             <date>1829</date>
           </pubStmt>
         </source>
-      </sourceDesc-->
+      </sourceDesc>
     </fileDesc>
     <encodingDesc xml:id="encodingdesc-0000001490740290">
       <appInfo xml:id="appinfo-0000001754151347">
