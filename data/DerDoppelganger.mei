@@ -436,13 +436,13 @@
               <slur xml:id="slur-0000001827441201" startid="#chord-0000001080108795" endid="#note-0000001587451045"/>
               <slur xml:id="slur-0000000913092811" startid="#chord-0000000384064976" endid="#chord-0000001544571189"/>
               <app>
-                <rdg source="#Manuscript #BreitkopfHartel"/>
+                <lem source="#Manuscript #BreitkopfHartel"/>
                 <rdg source="#Peters #Haslinger">
                   <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
                 </rdg>
               </app>
               <app>
-                <rdg source="#Manuscript #BreitkopfHartel"/>
+                <lem source="#Manuscript #BreitkopfHartel"/>
                 <rdg source="#Peters #Haslinger">
                   <slur startid="note-0000000746933226" endid="note-0000001254214995"/>
                 </rdg>
@@ -495,9 +495,9 @@
               <slur xml:id="slur-0000000731994419" startid="#note-0000001587451045" endid="#note-0000001208845991"/>
               <slur xml:id="slur-0000000214675854" startid="#chord-0000001544571189" endid="#note-0000000731441181"/>
               <app>
-                <rdg source="#Manuscript #Peters #Haslinger">
+                <lem source="#Manuscript #Peters #Haslinger">
                   <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
-                </rdg>
+                </lem>
                 <rdg source="#BreitkopfHartel"/>
               </app>
             </measure>
@@ -547,7 +547,7 @@
               <slur xml:id="slur-0000001964404175" startid="#chord-0000002112558723" endid="#chord-0000000345711234"/>
               <tie xml:id="tie-0000000918298836" startid="#note-0000000543978799" endid="#note-0000001141275499"/>
               <app>
-                <rdg source="#BreitkopfHartel #Manuscript #Haslinger"/>
+                <lem source="#BreitkopfHartel #Manuscript #Haslinger"/>
                 <rdg source="#Peters">
                   <slur startid="note-0000001795389481" endid="note-0000001603144472"/>
                 </rdg>
@@ -790,7 +790,7 @@
                 </layer>
               </staff>
               <app>
-                <rdg source="#Manuscript #BreitkopfHartel"/>
+                <lem source="#Manuscript #BreitkopfHartel"/>
                 <rdg source="#Peters #Haslinger">
                   <slur startid="note-0000000971602535" endid="note-0000000782535072"/>
                 </rdg>
@@ -1212,7 +1212,7 @@
               </staff>
               <hairpin xml:id="hairpin-0000002117396094" staff="2" startid="#chord-0000001783129399" endid="#note-0000001647820609" form="dim" place="below"/>
               <app>
-                <rdg source="#Manuscript #BreitkopfHartel #Haslinger"/>
+                <lem source="#Manuscript #BreitkopfHartel #Haslinger"/>
                 <rdg source="#Peters">
                   <slur startid="note-0000001535583919" endid="note-0000001722381461"/>
                 </rdg>
