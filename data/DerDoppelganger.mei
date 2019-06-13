@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/3.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei">
-  <!--meiHead>
+  <meiHead>
     <fileDesc>
       <titleStmt>
         <title>Der Doppelgänger</title>
@@ -104,7 +104,7 @@
         </application>
       </appInfo>
     </encodingDesc>
-  </meiHead-->
+  </meiHead>
   <music>
     <body>
       <mdiv xml:id="mdiv-0000000335227547">
