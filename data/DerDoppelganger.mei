@@ -8,7 +8,7 @@
         <composer>Franz Schubert</composer>
         <lyricist>Heinrich Heine</lyricist>
       </titleStmt>
-      <pubStmt>
+      <!--pubStmt>
         <publisher>
           <corpName>GitHub</corpName>
         </publisher>
@@ -94,7 +94,7 @@
             <date>1829</date>
           </pubStmt>
         </source>
-      </sourceDesc>
+      </sourceDesc-->
     </fileDesc>
     <encodingDesc xml:id="encodingdesc-0000001490740290">
       <appInfo xml:id="appinfo-0000001754151347">
