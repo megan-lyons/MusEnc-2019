@@ -30,7 +30,7 @@
       </editionStmt>
       <sourceDesc>
         <source xml:id="Manuscript">
-          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/d/dc/IMSLP111261-PMLP02204-Schubert_Schwanengesang_8_to_14_auto.pdf</identifier-->
+          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/d/dc/IMSLP111261-PMLP02204-Schubert_Schwanengesang_8_to_14_auto.pdf</identifier>
           <titleStmt>
             <title>[Untitled Schubert Manuscript]</title>
             <respStmt>
@@ -42,10 +42,10 @@
           </pubStmt>
           <notesStmt>
             <annot>Manuscript dated August 1828</annot>
-          </notesStmt>
+          </notesStmt-->
         </source>
         <source xml:id="BreitkopfHartel">
-          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/b/b5/IMSLP60828-PMLP02204-Schubert_Werke_Breitkopf_Serie_XX_Band_9_F.S.920-933.pdf</identifier-->
+          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/b/b5/IMSLP60828-PMLP02204-Schubert_Werke_Breitkopf_Serie_XX_Band_9_F.S.920-933.pdf</identifier>
           <titleStmt>
             <title>XIII. Der Doppelganger</title>
             <respStmt>
@@ -59,10 +59,10 @@
               <persName role="edt">Eusebius Mandyczewski</name>
             </respStmt>
             <date>1895</date>
-          </pubStmt>
+          </pubStmt-->
         </source>
         <source xml:id="Peters">
-          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/4/48/IMSLP00413-Schubert_-_Schwanengesang.pdf</identifier-->
+          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/4/48/IMSLP00413-Schubert_-_Schwanengesang.pdf</identifier>
           <titleStmt>
             <title>13. Der Doppelganger</title>
             <respStmt>
@@ -76,10 +76,10 @@
               <persName role="edt">Max Friedlaender</name>
             </respStmt>
             <date>1928</date>
-          </pubStmt>
+          </pubStmt-->
         </source>
         <source xml:id="Haslinger">
-          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/2/2f/IMSLP05967-Schubert_-_Schwanengesang_Vol2.pdf</identifier-->
+          <!--identifier>http://conquest.imslp.info/files/imglnks/usimg/2/2f/IMSLP05967-Schubert_-_Schwanengesang_Vol2.pdf</identifier>
           <titleStmt>
             <title>XIII. Der Doppelganger</title>
             <respStmt>
@@ -93,7 +93,7 @@
               <persName role="edt">Tobias Haslinger</name>
             </respStmt>
             <date>1829</date>
-          </pubStmt>
+          </pubStmt-->
         </source>
       </sourceDesc>
     </fileDesc>
