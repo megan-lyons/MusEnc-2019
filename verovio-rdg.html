@@ -55,10 +55,11 @@
                 /* Highlights the lem in blue and the rdg in red */
                 ///////////////////////////////////////////////////
                 $(".lem").attr("fill", "#00e").attr("stroke", "#00e");
-                $(".rdg").attr("fill", "#d00").attr("stroke", "#d00");
+                $(".rdg[contains(@source, '#Peters')]").attr("fill", "#d00").attr("stroke", "#d00");
+                $(".rdg[contains(@source, '#BreitkopfHartel')]").attr("fill", "#d00").attr("stroke", "#d00");
             };
             function loadFile() {
-                file = "data/DerDoppelganger.mei";
+                file = "data/DerDoppelganger2.mei";
                 $.ajax({
                     url: file
                     , dataType: "text"
@@ -79,7 +80,11 @@
                         loadFile();
                     }
                     else if (event.keyCode == 50) {
-                        appXPath = ["./rdg[contains(@source, '#source.Peters')]"];
+                        appXPath = ["./rdg[contains(@source, '#Peters')]"];
+                        loadFile();
+                    }
+                    else if (event.keyCode == 51) {
+                        appXPath = ["./rdg[contains(@source, '#BreitkopfHartel')]"];
                         loadFile();
                     }
                 });
