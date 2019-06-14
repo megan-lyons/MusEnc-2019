@@ -473,14 +473,18 @@
                       <syl xml:id="syl-0000002031963920" wordpos="t">te</syl>
                     </verse>
                   </note>
-                  <beam xml:id="beam-0000001801256308">
-                    <note xml:id="note-0000001795389481" dots="1" dur.ppq="6" dur="8" oct="4" pname="a" stem.dir="up">
-                      <verse xml:id="verse-0000000052854447" n="1">
-                        <syl xml:id="syl-0000000990471530">mein</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="note-0000001603144472" dur.ppq="2" dur="16" oct="4" pname="g" stem.dir="up"/>
-                  </beam>
+                  <app>
+                    <rdg source="#Peters">
+                      <beam xml:id="beam-0000001801256308">
+                        <note xml:id="note-0000001795389481" dots="1" dur.ppq="6" dur="8" oct="4" pname="a" stem.dir="up">
+                          <verse xml:id="verse-0000000052854447" n="1">
+                            <syl xml:id="syl-0000000990471530">mein</syl>
+                          </verse>
+                        </note>
+                        <note xml:id="note-0000001603144472" dur.ppq="2" dur="16" oct="4" pname="g" stem.dir="up"/>
+                      </beam>
+                    </rdg>
+                  </app>
                 </layer>
               </staff>
               <staff xml:id="staff-0000001618960488" n="2">
@@ -720,14 +724,18 @@
                       <syl xml:id="syl-0000001645219903">Stadt</syl>
                     </verse>
                   </note>
-                  <beam xml:id="beam-0000000562747593">
-                    <note xml:id="note-0000000971602535" dur.ppq="4" dur="8" oct="4" pname="d" stem.dir="up">
-                      <verse xml:id="verse-0000001222588963" n="1">
-                        <syl xml:id="syl-0000000986742056" con="d" wordpos="i">ver</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="note-0000000782535072" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="up"/>
-                  </beam>
+                  <app>
+                    <rdg source="#Peters">
+                      <beam xml:id="beam-0000000562747593">
+                        <note xml:id="note-0000000971602535" dur.ppq="4" dur="8" oct="4" pname="d" stem.dir="up">
+                          <verse xml:id="verse-0000001222588963" n="1">
+                            <syl xml:id="syl-0000000986742056" con="d" wordpos="i">ver</syl>
+                          </verse>
+                        </note>
+                        <note xml:id="note-0000000782535072" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="up"/>
+                      </beam>
+                    </rdg>
+                  </app>
                 </layer>
               </staff>
               <staff xml:id="staff-0000000505120854" n="2">
