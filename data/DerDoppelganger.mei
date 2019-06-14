@@ -347,8 +347,6 @@
                       <syl xml:id="syl-0000001531974033">in</syl>
                     </verse>
                   </note>
-                  <app>
-                    <rdg source="#Peters">
                       <beam xml:id="beam-0000001501996129">
                         <note xml:id="note-0000000714996542" dots="1" dur.ppq="6" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
                           <verse xml:id="verse-0000000658433732" n="1">
@@ -358,10 +356,6 @@
                         <note xml:id="note-0000001507050221" dur.ppq="1" dur="32" oct="4" pname="g" stem.dir="up"/>
                         <note xml:id="note-0000001950775584" dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" accid.ges="s"/>
                       </beam>
-                    </rdg>
-                  </app>
-                  <app>
-                    <rdg source="#Peters">
                       <beam xml:id="beam-0000000262005777">
                         <note xml:id="note-0000000746933226" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up">
                           <verse xml:id="verse-0000000350692276" n="1">
@@ -370,8 +364,6 @@
                         </note>
                         <note xml:id="note-0000001254214995" dur.ppq="4" dur="8" oct="4" pname="d" stem.dir="up"/>
                       </beam>
-                    </rdg>
-                  </app>
                 </layer>
               </staff>
               <staff xml:id="staff-0000000672146063" n="2">
@@ -394,6 +386,7 @@
               <slur xml:id="slur-0000001827441201" startid="#chord-0000001080108795" endid="#note-0000001587451045"/>
               <slur xml:id="slur-0000000913092811" startid="#chord-0000000384064976" endid="#chord-0000001544571189"/>
               <app>
+                <lem></lem>
                 <rdg source="#Peters">
                   <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
                 </rdg>
