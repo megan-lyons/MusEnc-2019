@@ -1162,7 +1162,7 @@
               </staff>
               <hairpin xml:id="hairpin-0000002117396094" staff="2" startid="#chord-0000001783129399" endid="#note-0000001647820609" form="dim" place="below"/>
               <app>
-                <lem></lem>
+                <lem> </lem>
                 <rdg source="#Peters">
                   <slur startid="note-0000001535583919" endid="note-0000001722381461"/>
                 </rdg>
