@@ -385,13 +385,14 @@
               </staff>
               <slur xml:id="slur-0000001827441201" startid="#chord-0000001080108795" endid="#note-0000001587451045"/>
               <slur xml:id="slur-0000000913092811" startid="#chord-0000000384064976" endid="#chord-0000001544571189"/>
-              <slur startid="note-0000000746933226" endid="note-0000001254214995"/>
-              <!--app>
-                <lem source="#Manuscript"></lem>
+              <app>
+                <lem source="#Manuscript">
+                  <slur startid="note-0000000746933226" endid="note-0000001254214995"/>
+                </lem>
                 <rdg source="#Peters">
                   <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
                 </rdg>
-              </app-->
+              </app>
               <!--app>
                 <lem source="#Manuscript"></lem>
                 <rdg source="#Peters">
