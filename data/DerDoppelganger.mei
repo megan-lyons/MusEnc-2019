@@ -358,7 +358,6 @@
                         <note xml:id="note-0000001507050221" dur.ppq="1" dur="32" oct="4" pname="g" stem.dir="up"/>
                         <note xml:id="note-0000001950775584" dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up" accid.ges="s"/>
                       </beam>
-                      <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
                     </rdg>
                   </app>
                   <app>
@@ -371,7 +370,6 @@
                         </note>
                         <note xml:id="note-0000001254214995" dur.ppq="4" dur="8" oct="4" pname="d" stem.dir="up"/>
                       </beam>
-                      <slur startid="note-0000000746933226" endid="note-0000001254214995"/>
                     </rdg>
                   </app>
                 </layer>
@@ -395,6 +393,16 @@
               </staff>
               <slur xml:id="slur-0000001827441201" startid="#chord-0000001080108795" endid="#note-0000001587451045"/>
               <slur xml:id="slur-0000000913092811" startid="#chord-0000000384064976" endid="#chord-0000001544571189"/>
+              <app>
+                <rdg source="#Peters">
+                  <slur startid="note-0000000714996542" endid="note-0000001950775584"/>
+                </rdg>
+              </app>
+              <app>
+                <rdg source="#Peters">
+                  <slur startid="note-0000000746933226" endid="note-0000001254214995"/>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000000390694854" n="10">
               <staff xml:id="staff-0000000457214350" n="1">
@@ -459,7 +467,7 @@
               <slur xml:id="slur-0000000731994419" startid="#note-0000001587451045" endid="#note-0000001208845991"/>
               <slur xml:id="slur-0000000214675854" startid="#chord-0000001544571189" endid="#note-0000000731441181"/>
               <app>
-                <rdg source="#Peters">
+                <rdg source="#Manuscript">
                   <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
                 </rdg>
               </app>
