@@ -458,6 +458,11 @@
               </staff>
               <slur xml:id="slur-0000000731994419" startid="#note-0000001587451045" endid="#note-0000001208845991"/>
               <slur xml:id="slur-0000000214675854" startid="#chord-0000001544571189" endid="#note-0000000731441181"/>
+              <app>
+                <rdg source="#Peters">
+                  <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000000929658066" n="11">
               <staff xml:id="staff-0000001174444472" n="1">
