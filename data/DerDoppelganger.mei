@@ -455,9 +455,9 @@
               <slur xml:id="slur-0000000731994419" startid="#note-0000001587451045" endid="#note-0000001208845991"/>
               <slur xml:id="slur-0000000214675854" startid="#chord-0000001544571189" endid="#note-0000000731441181"/>
               <app>
-                <rdg source="#Manuscript">
+                <lem source="#Manuscript">
                   <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
-                </rdg>
+                </lem>
               </app>
             </measure>
             <measure xml:id="measure-0000000929658066" n="11">
