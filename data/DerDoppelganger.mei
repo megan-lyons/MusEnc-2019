@@ -444,12 +444,12 @@
               </staff>
               <slur xml:id="slur-0000000731994419" startid="#note-0000001587451045" endid="#note-0000001208845991"/>
               <slur xml:id="slur-0000000214675854" startid="#chord-0000001544571189" endid="#note-0000000731441181"/>
-              <!--app>
+              <app>
                 <lem>
                   <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
                 </lem>
                 <rdg source="#Peters"></rdg>
-              </app-->
+              </app>
             </measure>
             <measure xml:id="measure-0000000929658066" n="11">
               <staff xml:id="staff-0000001174444472" n="1">
@@ -496,12 +496,12 @@
               <slur xml:id="slur-0000000296706264" startid="#chord-0000002112558723" endid="#chord-0000000345711234" curvedir="above"/>
               <slur xml:id="slur-0000001964404175" startid="#chord-0000002112558723" endid="#chord-0000000345711234"/>
               <tie xml:id="tie-0000000918298836" startid="#note-0000000543978799" endid="#note-0000001141275499"/>
-              <!--app>
+              <app>
                 <lem></lem>
                 <rdg source="#Peters">
                   <slur startid="note-0000001795389481" endid="note-0000001603144472"/>
                 </rdg>
-              </app-->
+              </app>
             </measure>
             <measure xml:id="measure-0000001804471415" n="12">
               <staff xml:id="staff-0000001574322358" n="1">
@@ -739,12 +739,12 @@
                   </chord>
                 </layer>
               </staff>
-              <!--app>
+              <app>
               <lem></lem>
                 <rdg source="#Peters #Haslinger">
                   <slur startid="note-0000000971602535" endid="note-0000000782535072"/>
                 </rdg>
-              </app-->
+              </app>
             </measure>
             <measure xml:id="measure-0000001138914844" n="18">
               <staff xml:id="staff-0000001674002007" n="1">
@@ -1161,12 +1161,12 @@
                 </layer>
               </staff>
               <hairpin xml:id="hairpin-0000002117396094" staff="2" startid="#chord-0000001783129399" endid="#note-0000001647820609" form="dim" place="below"/>
-              <!--app>
+              <app>
                 <lem> </lem>
                 <rdg source="#Peters">
                   <slur startid="note-0000001535583919" endid="note-0000001722381461"/>
                 </rdg>
-              </app-->
+              </app>
             </measure>
             <measure xml:id="measure-0000000111737644" n="28">
               <staff xml:id="staff-0000001795531426" n="1">
