@@ -416,20 +416,8 @@
                           </verse>
                         </note>
                         <note xml:id="note-0000000238226186" dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s"/>
-                        <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
                       </beam>
                     </lem>
-                    <rdg source="#Peters">
-                      <beam xml:id="beam-0000000434343964">
-                        <note xml:id="note-0000001591125204" dots="1" dur.ppq="6" dur="8" oct="4" pname="c" stem.dir="up" accid.ges="s">
-                          <verse xml:id="verse-0000001768764075" n="1">
-                            <syl xml:id="syl-0000000981838042" con="d" wordpos="i">Hau</syl>
-                          </verse>
-                        </note>
-                        <note xml:id="note-0000000238226186" dur.ppq="2" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s"/>
-                        <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
-                      </beam>
-                    </rdg>
                   </app>
                   <note xml:id="note-0000001543228952" dur.ppq="8" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                     <verse xml:id="verse-0000000632383410" n="1">
