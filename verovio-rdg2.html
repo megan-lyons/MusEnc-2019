@@ -13,8 +13,10 @@
 
         <!-- A help overlay -->
         <div id="help_overlay">
-            <p>Press <b>1</b> to show and highlight the Manuscript</p>
-            <p>Press <b>2</b> to show and highlight the Peters edition</p>
+          <p>Press <b>1</b> to show and highlight the Manuscript</p>
+          <p>Press <b>2</b> to show and highlight the Peters Edition</p>
+          <p>Press <b>3</b> to show and highlight the Breitkopf and Hartel Edition</p>
+          <p>Press <b>4</b> to show and highlight the Haslinger Edition</p>
         </div>
 
         <!-- The div where we are going to insert the SVG -->
@@ -55,9 +57,12 @@
                 /* Highlights the lem in blue and the rdg in red */
                 ///////////////////////////////////////////////////
                 $(".lem").attr("fill", "#00e").attr("stroke", "#00e");
-                $(".rdg").attr("fill", "#d00").attr("stroke", "#d00");
+                $(".rdg"+id).attr("fill", "#d00").attr("stroke", "#d00");
+                $(".rdg").attr("fill", "#fff").attr("stroke", "#fff");
+                $(".rdg").attr("fill", "#0e0").attr("stroke", "#0e0");
             };
             function loadFile() {
+                id = "Peters"
                 file = "data/DerDoppelganger.mei";
                 $.ajax({
                     url: file
@@ -80,6 +85,14 @@
                     }
                     else if (event.keyCode == 50) {
                         appXPath = ["./rdg[contains(@source, '#Peters')]"];
+                        loadFile();
+                    }
+                    else if (event.keyCode == 51) {
+                        appXPath = ["./rdg[contains(@source, '#BreitkopfHartel')]"];
+                        loadFile();
+                    }
+                    else if (event.keyCode == 52) {
+                        appXPath = ["./rdg[contains(@source, '#Haslinger')]"];
                         loadFile();
                     }
                 });
