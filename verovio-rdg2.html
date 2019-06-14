@@ -57,12 +57,11 @@
                 /* Highlights the lem in blue and the rdg in red */
                 ///////////////////////////////////////////////////
                 $(".lem").attr("fill", "#00e").attr("stroke", "#00e");
-                $(".rdg"+id).attr("fill", "#d00").attr("stroke", "#d00");
+                $(".rdg").attr("fill", "#d00").attr("stroke", "#d00");
                 $(".rdg").attr("fill", "#fff").attr("stroke", "#fff");
                 $(".rdg").attr("fill", "#0e0").attr("stroke", "#0e0");
             };
             function loadFile() {
-                id = "Peters"
                 file = "data/DerDoppelganger.mei";
                 $.ajax({
                     url: file
