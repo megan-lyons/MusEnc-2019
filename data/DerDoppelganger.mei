@@ -422,6 +422,7 @@
                         <slur startid="note-0000001591125204" endid="note-0000000238226186"/>
                       </beam>
                     </rdg>
+                  </app>
                     <note xml:id="note-0000001543228952" dur.ppq="8" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                       <verse xml:id="verse-0000000632383410" n="1">
                         <syl xml:id="syl-0000001098773908">se</syl>
